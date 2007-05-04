@@ -1,10 +1,10 @@
 %define	name	cryopid
-%define	version	0.5.9
-%define	release	%mkrel 4
+%define	version	0.5.9.1
+%define	rel     1
 Summary:	A Process Freezer for Linux
 Name:		%{name}
 Version:	%{version}
-Release:	%{release}
+Release:	%mkrel %{rel}
 License:	BSD
 Group:		Development/Other
 URL:		http://cryopid.berlios.de/
