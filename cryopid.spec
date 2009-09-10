@@ -1,6 +1,6 @@
 %define	name	cryopid
 %define	version	0.5.9.1
-%define	rel     1
+%define	rel     2
 Summary:	A Process Freezer for Linux
 Name:		%{name}
 Version:	%{version}
