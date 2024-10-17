@@ -7,7 +7,7 @@ Version:	%{version}
 Release:	%mkrel %{rel}
 License:	BSD
 Group:		Development/Other
-URL:		http://cryopid.berlios.de/
+URL:		https://cryopid.berlios.de/
 Source0:	%{name}-%{version}-i386.tar.bz2
 Source1:	%{name}-%{version}-x86_64.tar.bz2
 Buildroot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
