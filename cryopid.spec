@@ -4,7 +4,7 @@
 Summary:	A Process Freezer for Linux
 Name:		%{name}
 Version:	%{version}
-Release:	%mkrel %{rel}
+Release:	%{rel}.1
 License:	BSD
 Group:		Development/Other
 URL:		https://cryopid.berlios.de/
